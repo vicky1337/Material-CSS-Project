@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .heading{
+    color: #99a3b2;
+  }
+      
+
+  .nav-wrapper{
+    background-color: #7ebf8d !important;
+   }
+
+
+
+
+   .parallax-container {
+    height: 350px;
+  }
+
+
+   .page-footer{
+    background-color: #9b5d2b!important;
+   }
+
+
+
+
+
